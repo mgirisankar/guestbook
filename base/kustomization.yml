@@ -1,0 +1,6 @@
+---
+resources:
+  - fe.yml
+  - fe-svc.yml
+  - redis.yml
+  - redis-svc.yml

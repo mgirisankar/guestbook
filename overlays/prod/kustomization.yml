@@ -1,0 +1,7 @@
+---
+namespace: mc-prod
+resources:
+- ./../../base
+- namespace.yml
+patchesStrategicMerge:
+- deploy.yml
