@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/mgirisankar/guestbook.git
     targetRevision: HEAD
-    path: overlays/dev
+    path: overlays/test
   destination:
     server: https://kubernetes.default.svc
     namespace: mc-test
